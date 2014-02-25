@@ -29,7 +29,6 @@ gem 'jbuilder', '~> 1.2'
 gem "therubyracer"
 gem "less-rails"
 gem "twitter-bootstrap-rails"
-#gem 'pg', '~> 0.16.0'
 
 group :development, :test do
 	gem 'sqlite3'
