@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.1'
 
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+#gem 'sqlite3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -35,7 +35,8 @@ group :development, :test do
 end
 
 # group :production do
-# 	gem'pg', '~> 0.16.0'
+# 	#gem install postgres-pr
+# 	#gem 'pg', '~>16.1.0'
 # 	gem 'rails_12factor'
 # end
 
